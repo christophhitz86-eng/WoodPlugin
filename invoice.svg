@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="invoice" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<path d="M87.5,6.25c-3.451,0-6.25,2.798-6.25,6.25v6.25h12.5V12.5C93.75,9.048,90.951,6.25,87.5,6.25z"/>
+<path d="M14.583,2.083c-4.603,0-8.333,3.731-8.333,8.333v87.5h70.834v-87.5c0-4.602,3.73-8.333,8.332-8.333H14.583z M64.584,87.5
+	H18.75c-1.15,0-2.083-0.933-2.083-2.084c0-1.15,0.933-2.082,2.083-2.082h45.834c1.15,0,2.082,0.932,2.082,2.082
+	C66.666,86.567,65.734,87.5,64.584,87.5z M64.584,77.084H18.75c-1.15,0-2.083-0.934-2.083-2.084s0.933-2.084,2.083-2.084h45.834
+	c1.15,0,2.082,0.934,2.082,2.084S65.734,77.084,64.584,77.084z M64.584,66.666H18.75c-1.15,0-2.083-0.932-2.083-2.082
+	c0-1.151,0.933-2.084,2.083-2.084h45.834c1.15,0,2.082,0.933,2.082,2.084C66.666,65.734,65.734,66.666,64.584,66.666z"/>
+<rect x="12" y="5" fill="none" width="60.963" height="25"/>
+<text transform="matrix(1 0 0 1 12 29.1396)" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="34">CHF</text>
+</svg>

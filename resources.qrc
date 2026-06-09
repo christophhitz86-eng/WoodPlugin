@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/theme_catalog" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
